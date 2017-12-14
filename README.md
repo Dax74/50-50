@@ -8,5 +8,5 @@ A banner for Discourse
 ### Mobile view - Portrait
 <img src="https://i.imgur.com/DhoHMHp.gif">
 
-### Mobil view - Landscape
+### Mobile view - Landscape
 <img src="https://i.imgur.com/GL0cJAX.gif">
